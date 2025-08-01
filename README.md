@@ -5,8 +5,10 @@ Aspiring Specialist in **Data Analysis** & **Embedded Systems**
 
 ---
 
-## 🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-owais-7a442b293)
-
+## 🔗 [LinkedIn Profile]
+```bash
+(https://www.linkedin.com/in/muhammad-owais-7a442b293)
+```
 ---
 
 ## 🛠️ Technical Skills
