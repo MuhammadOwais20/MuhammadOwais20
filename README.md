@@ -7,12 +7,14 @@ Aspiring Specialist in **Data Analysis** & **Embedded Systems**
 
 ## 🔗 [LinkedIn Profile]
 ```bash
-(https://www.linkedin.com/in/muhammad-owais-7a442b293)
+https://www.linkedin.com/in/muhammad-owais-7a442b293
 ```
 ---
 
 ## 🎯 Career Objective
 To leverage my comprehensive technical skills and academic background in telecommunication engineering to drive innovation in data-driven and embedded systems solutions. Dedicated to contributing to impactful projects and advancing technology in electronics and communications.
+
+---
 
 ## 🛠️ Technical Skills
 
