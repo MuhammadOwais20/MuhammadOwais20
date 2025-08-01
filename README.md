@@ -11,6 +11,9 @@ Aspiring Specialist in **Data Analysis** & **Embedded Systems**
 ```
 ---
 
+## 🎯 Career Objective
+To leverage my comprehensive technical skills and academic background in telecommunication engineering to drive innovation in data-driven and embedded systems solutions. Dedicated to contributing to impactful projects and advancing technology in electronics and communications.
+
 ## 🛠️ Technical Skills
 
 ### Programming & Scripting Languages
@@ -44,6 +47,3 @@ Aspiring Specialist in **Data Analysis** & **Embedded Systems**
 - IoT Applications
 
 ---
-
-## 🎯 Career Objective
-To leverage my comprehensive technical skills and academic background in telecommunication engineering to drive innovation in data-driven and embedded systems solutions. Dedicated to contributing to impactful projects and advancing technology in electronics and communications.
